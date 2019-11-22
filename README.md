@@ -1,4 +1,4 @@
-# About the Secure Coding Dojo
+# About the Secure Coding Dojo..
 The Secure Coding Dojo is a platform for delivering secure coding training. 
 While it comes with its own vulnerable training application (the Insecure.Inc website) the training portal can be used in conjunction with other  training applications.
 The strength of the platform is its extensibility and the integration with the commonly used development collaboration platform Slack.
